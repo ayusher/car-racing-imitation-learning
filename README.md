@@ -1,4 +1,4 @@
-# car-racing-imitation-learning
+# Car Racing Using Imitation Learning
 
 This lean repository has all the tools necessary to train and evaluate a car-racing Tensorflow model from scratch! In fact, it only takes 5 episodes (<5 minutes) to generate enough data for the model to play competently!
 
